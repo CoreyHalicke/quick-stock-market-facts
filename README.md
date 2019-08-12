@@ -1,5 +1,11 @@
 HELLO WORLD
 
+commands
+git clone git@github.com:CoreyHalicke/quick-stock-market-facts.git
+cd quick-stock-market-facts
+
+
+
 # Quick::Stock::Market::Facts
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/quick/stock/market/facts`. To experiment with that code, run `bin/console` for an interactive prompt.
